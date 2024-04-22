@@ -13,4 +13,3 @@ volumes/dbimport/*
 # Others
 .swp
 .sandbox
-.env
