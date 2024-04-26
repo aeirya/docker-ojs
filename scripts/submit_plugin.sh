@@ -6,6 +6,15 @@
 ### NOTE: run this script from root of project (or a folder inside project)
 ###
 
+
+if [ -z $1 ]; then
+    echo "How to use:"
+    echo "./submit_plugin path_to_plugin_dir"
+    echo "e.g.:\t./submit_plugin themes/material"
+    exit
+fi
+
+
 # folder to submit
 dir=$1
 
