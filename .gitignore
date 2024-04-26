@@ -1,15 +1,5 @@
-# Volumes
-volumes/*
-!volumes/config
-volumes/config/*
-!volumes/config/README
-!volumes/db
-volumes/db/*
-!volumes/db/README
-!volumes/dbimport
-volumes/dbimport/*
-!volumes/dbimport/README
+# mac system file
+.DS_Store
 
-# Others
 .swp
 .sandbox

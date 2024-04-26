@@ -1,0 +1,13 @@
+# Volumes
+*
+!.gitignore
+
+!config
+config/*
+!config/README
+!db
+db/*
+!db/README
+!dbimport
+dbimport/*
+!dbimport/README
