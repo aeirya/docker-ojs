@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE version SYSTEM "../../../lib/pkp/dtd/pluginVersion.dtd">
+
+<version>
+	<application>tritheme</application>
+	<type>plugins.themes</type>
+	<release>0.0.0.1</release>
+	<date>2024-04-26</date>
+</version>
